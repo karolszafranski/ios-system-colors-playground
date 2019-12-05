@@ -13,6 +13,7 @@
 		0DCAF3632398EA2C008454EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DCAF3612398EA2C008454EF /* Main.storyboard */; };
 		0DCAF3652398EA2F008454EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DCAF3642398EA2F008454EF /* Assets.xcassets */; };
 		0DCAF3682398EA2F008454EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DCAF3662398EA2F008454EF /* LaunchScreen.storyboard */; };
+		0DCAF3702398EB71008454EF /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DCAF36F2398EB71008454EF /* ColorsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0DCAF3642398EA2F008454EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DCAF3672398EA2F008454EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DCAF3692398EA2F008454EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DCAF36F2398EB71008454EF /* ColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0DCAF35B2398EA2C008454EF /* AppDelegate.swift */,
 				0DCAF35D2398EA2C008454EF /* SceneDelegate.swift */,
 				0DCAF35F2398EA2C008454EF /* ViewController.swift */,
+				0DCAF36F2398EB71008454EF /* ColorsViewController.swift */,
 				0DCAF3612398EA2C008454EF /* Main.storyboard */,
 				0DCAF3642398EA2F008454EF /* Assets.xcassets */,
 				0DCAF3662398EA2F008454EF /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				0DCAF3602398EA2C008454EF /* ViewController.swift in Sources */,
 				0DCAF35C2398EA2C008454EF /* AppDelegate.swift in Sources */,
+				0DCAF3702398EB71008454EF /* ColorsViewController.swift in Sources */,
 				0DCAF35E2398EA2C008454EF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
